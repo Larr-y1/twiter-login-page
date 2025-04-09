@@ -1,0 +1,8 @@
+body {
+  background-color: #000;
+  font-family: 'Segoe UI', Roboto, Arial, sans-serif;
+}
+
+input::placeholder {
+  color: #888;
+}
